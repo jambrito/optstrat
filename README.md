@@ -1,2 +1,2 @@
 # optstrat
-Mathematical Formulations  for Stratification Problem
+Mathematical Programming Formulations for Stratification Problem
