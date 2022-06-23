@@ -1,0 +1,12 @@
+L;pop;b1;b2;N1;N2;N3;S1x;S2x;S3x;ni1;ni2;ni3
+3;7;944,6;1270;33;49;9;88,31;90,4;454,51;5;7;6
+3;10;1993;7910;227;54;3;453,6;1643,85;12446,71;29;25;3
+3;12;37;247;233;49;2;8,38;36,41;159,1;29;26;2
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+L = Number  of Strata;;;;;;;;;;;;
+pop = Population;;;;;;;;;;;;
+bj = cutoff;;;;;;;;;;;;
+Nj = Number of observation in each stratum;;;;;;;;;;;;
+Sjx = Standard deviation in each stratum;;;;;;;;;;;;
+nij - integer sample size;;;;;;;;;;;;
